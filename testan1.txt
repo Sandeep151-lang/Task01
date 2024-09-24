@@ -130,4 +130,3 @@ Ans-	1-You type in a URL into an address bar in a browser.
 	7-The TLD responds with the IP address of the domain’s nameserver (the website you want to visit).
 	8-The nameserver responds with the IP address of the domain.
 	9-The resolver responds to the web browser with the domain’s IP address.
-	10-You access the website you want to visit.
